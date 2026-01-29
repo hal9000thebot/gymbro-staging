@@ -1,0 +1,304 @@
+:root {
+  /* Figma screenshot-inspired dark UI */
+  --bg0: #050607;
+  --bg1: #0a0a0a;
+  --surface: #151617;
+  --surface2: #1a1a1a;
+  --border: rgba(255, 255, 255, 0.08);
+  --border-strong: rgba(255, 255, 255, 0.12);
+  --text: #ffffff;
+  --muted: rgba(255, 255, 255, 0.66);
+  --muted2: rgba(255, 255, 255, 0.45);
+
+  --accent: #14b8a6; /* teal */
+  --accent-weak: rgba(20, 184, 166, 0.18);
+
+  --danger: #ff4d4f;
+  --danger-weak: rgba(255, 77, 79, 0.16);
+
+  --radius-xl: 26px;
+  --radius-lg: 18px;
+  --radius-md: 14px;
+
+  --shadow-card: 0 10px 35px rgba(0,0,0,0.55);
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  overflow-x: hidden;
+  font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial;
+  background: radial-gradient(1200px 700px at 50% -20%, rgba(255,255,255,0.10), transparent 55%),
+    radial-gradient(800px 500px at 50% 10%, rgba(20,184,166,0.08), transparent 60%),
+    linear-gradient(180deg, var(--bg0), var(--bg1));
+  color: var(--text);
+}
+
+a { color: inherit; }
+
+.container {
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 18px 16px;
+  padding-bottom: 116px; /* leave room for floating nav */
+}
+
+.appTop {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 10px 4px 2px;
+}
+
+.appTopMark {
+  width: 44px;
+  height: 44px;
+  border-radius: 16px;
+  background: rgba(20,184,166,0.12);
+  border: 1px solid rgba(20,184,166,0.22);
+  color: var(--accent);
+  display: grid;
+  place-items: center;
+}
+
+.appTopText { display: grid; gap: 2px; }
+
+.appName {
+  font-weight: 800;
+  letter-spacing: -0.02em;
+  font-size: 18px;
+  line-height: 1.1;
+}
+
+.appTag {
+  font-size: 13px;
+  color: var(--muted);
+}
+
+h1 {
+  font-size: 44px;
+  letter-spacing: -0.02em;
+  margin: 4px 0 6px 0;
+}
+
+h2 {
+  font-size: 22px;
+  letter-spacing: -0.01em;
+  margin: 0 0 10px 0;
+}
+
+.muted {
+  color: var(--muted);
+  font-size: 16px;
+  line-height: 1.4;
+}
+
+.card {
+  /* Liquid glass */
+  background:
+    radial-gradient(120% 120% at 10% 0%, rgba(255,255,255,0.16), rgba(255,255,255,0.06) 45%, rgba(255,255,255,0.03) 70%),
+    linear-gradient(180deg, rgba(255,255,255,0.06), rgba(255,255,255,0.02));
+  border: 1px solid rgba(255, 255, 255, 0.10);
+  border-top-color: rgba(255, 255, 255, 0.18);
+  border-left-color: rgba(255, 255, 255, 0.14);
+  border-radius: var(--radius-xl);
+  padding: 18px;
+  box-shadow:
+    0 18px 60px rgba(0,0,0,0.55),
+    inset 0 1px 0 rgba(255,255,255,0.12),
+    inset 0 -1px 0 rgba(0,0,0,0.35);
+  backdrop-filter: blur(14px) saturate(140%);
+  -webkit-backdrop-filter: blur(14px) saturate(140%);
+}
+
+.cardHeader {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 10px;
+}
+
+.row { display: flex; gap: 10px; align-items: center; }
+.row.wrap { flex-wrap: wrap; }
+
+.grid { display: grid; gap: 14px; }
+.grid.two { grid-template-columns: 1fr; }
+@media (min-width: 720px) {
+  .grid.two { grid-template-columns: 1fr 1fr; }
+}
+
+input, select, textarea {
+  width: 100%;
+  padding: 14px 14px;
+  border-radius: var(--radius-lg);
+  border: 1px solid var(--border);
+  background: rgba(0,0,0,0.45);
+  color: var(--text);
+  outline: none;
+  font-size: 16px;
+}
+
+input::placeholder { color: var(--muted2); }
+
+input:focus, select:focus, textarea:focus {
+  border-color: rgba(20,184,166,0.55);
+  box-shadow: 0 0 0 4px rgba(20,184,166,0.10);
+}
+
+button {
+  padding: 14px 14px;
+  border-radius: var(--radius-lg);
+  border: 1px solid var(--border);
+  background: rgba(255,255,255,0.06);
+  color: var(--text);
+  cursor: pointer;
+  font-size: 16px;
+  line-height: 1;
+}
+
+button.primary {
+  background:
+    radial-gradient(120% 120% at 20% 0%, rgba(255,255,255,0.35), rgba(255,255,255,0.0) 45%),
+    linear-gradient(180deg, rgba(20,184,166,0.95), rgba(20,184,166,0.65));
+  border-color: rgba(20,184,166,0.55);
+  color: #041a17;
+  font-weight: 800;
+  box-shadow:
+    0 12px 30px rgba(20,184,166,0.14),
+    inset 0 1px 0 rgba(255,255,255,0.25);
+}
+
+button.primary:hover { filter: brightness(1.03); }
+
+button.danger {
+  background: var(--danger-weak);
+  border-color: rgba(255,77,79,0.35);
+  color: #ffb3b3;
+}
+
+button.iconBtn {
+  padding: 10px;
+  border-radius: 14px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+
+button:disabled { opacity: 0.55; cursor: not-allowed; }
+
+.badge {
+  font-size: 13px;
+  color: var(--muted);
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  padding: 6px 10px;
+  background: rgba(0,0,0,0.35);
+}
+
+.pill {
+  display: inline-block;
+  padding: 6px 10px;
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  font-size: 13px;
+  color: var(--muted);
+  background: rgba(0,0,0,0.30);
+}
+
+.table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.table th, .table td {
+  border-bottom: 1px solid var(--border);
+  padding: 12px 8px;
+  text-align: left;
+  font-size: 16px;
+}
+
+.table th { color: var(--muted); font-weight: 600; }
+
+.list {
+  border-radius: var(--radius-xl);
+  overflow: hidden;
+  border: 1px solid var(--border);
+  background: rgba(0,0,0,0.25);
+}
+
+.listRow {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 16px;
+  border-bottom: 1px solid var(--border);
+}
+
+.listRow:last-child { border-bottom: none; }
+
+.listTitle {
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.listSub {
+  font-size: 15px;
+  color: var(--muted);
+  margin-top: 4px;
+}
+
+.setRow {
+  display: grid;
+  grid-template-columns: 64px 1fr 1fr;
+  gap: 10px;
+  align-items: center;
+}
+
+.nav {
+  position: fixed;
+  bottom: 12px;
+  left: 12px;
+  right: 12px;
+  z-index: 50;
+}
+
+.nav-inner {
+  max-width: 720px;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  border-radius: 22px;
+  background:
+    radial-gradient(120% 120% at 10% 0%, rgba(255,255,255,0.16), rgba(255,255,255,0.06) 40%, rgba(255,255,255,0.03) 70%),
+    rgba(10,10,10,0.55);
+  border: 1px solid rgba(255,255,255,0.10);
+  box-shadow:
+    0 18px 60px rgba(0,0,0,0.60),
+    inset 0 1px 0 rgba(255,255,255,0.10);
+  backdrop-filter: blur(18px) saturate(160%);
+  -webkit-backdrop-filter: blur(18px) saturate(160%);
+  overflow: hidden;
+}
+
+.nav button {
+  border: none;
+  border-radius: 0;
+  padding: 10px 6px 12px;
+  background: transparent;
+  color: var(--muted2);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  font-size: 12px;
+}
+
+.nav button svg { width: 22px; height: 22px; }
+
+.nav button.active {
+  color: var(--accent);
+}
+
+.nav button.active svg { color: var(--accent); }

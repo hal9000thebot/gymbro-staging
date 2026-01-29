@@ -1,0 +1,2534 @@
+{
+  "version": 1,
+  "exercises": [
+    {
+      "id": "520b40d4b5bbd155",
+      "name": "Barbell bench press",
+      "createdAt": "2026-01-28T12:00:40Z",
+      "updatedAt": "2026-01-28T12:00:40Z"
+    },
+    {
+      "id": "aad854d3baca59b6",
+      "name": "Dumbell overhead press",
+      "createdAt": "2026-01-28T12:00:40Z",
+      "updatedAt": "2026-01-28T12:00:40Z"
+    },
+    {
+      "id": "84e2a4f6bf66cba9",
+      "name": "Incline dumbbell press",
+      "createdAt": "2026-01-28T12:00:40Z",
+      "updatedAt": "2026-01-28T12:00:40Z"
+    },
+    {
+      "id": "2802129e820758bf",
+      "name": "Weighted dips",
+      "createdAt": "2026-01-28T12:00:40Z",
+      "updatedAt": "2026-01-28T12:00:40Z"
+    },
+    {
+      "id": "75fe38737e570f2f",
+      "name": "Lateral raises",
+      "createdAt": "2026-01-28T12:00:40Z",
+      "updatedAt": "2026-01-28T12:00:40Z"
+    },
+    {
+      "id": "e168020bbab768c3",
+      "name": "Pull-ups",
+      "createdAt": "2026-01-28T12:00:40Z",
+      "updatedAt": "2026-01-28T12:00:40Z"
+    },
+    {
+      "id": "03693efd21f4c5b0",
+      "name": "Barbell bent-over row",
+      "createdAt": "2026-01-28T12:00:40Z",
+      "updatedAt": "2026-01-28T12:00:40Z"
+    },
+    {
+      "id": "04e30fdf1cf7bc5f",
+      "name": "Seated cable row / DB row",
+      "createdAt": "2026-01-28T12:00:40Z",
+      "updatedAt": "2026-01-28T12:00:40Z"
+    },
+    {
+      "id": "f130c423215e6c9c",
+      "name": "Barbell curls",
+      "createdAt": "2026-01-28T12:00:40Z",
+      "updatedAt": "2026-01-28T12:00:40Z"
+    },
+    {
+      "id": "004118f01514c872",
+      "name": "Hammer curls",
+      "createdAt": "2026-01-28T12:00:40Z",
+      "updatedAt": "2026-01-28T12:00:40Z"
+    },
+    {
+      "id": "b5fa12b4fb9cefa4",
+      "name": "Back squat",
+      "createdAt": "2026-01-28T12:00:40Z",
+      "updatedAt": "2026-01-28T12:00:40Z"
+    },
+    {
+      "id": "9e8b0445b350ed74",
+      "name": "Romanian deadlift",
+      "createdAt": "2026-01-28T12:00:40Z",
+      "updatedAt": "2026-01-28T12:00:40Z"
+    },
+    {
+      "id": "2536c547584e86ef",
+      "name": "Bulgarian split squat",
+      "createdAt": "2026-01-28T12:00:40Z",
+      "updatedAt": "2026-01-28T12:00:40Z"
+    },
+    {
+      "id": "9c8adfaf0c3ffa39",
+      "name": "Hanging leg raises",
+      "createdAt": "2026-01-28T12:00:40Z",
+      "updatedAt": "2026-01-28T12:00:40Z"
+    },
+    {
+      "id": "1be1617b11da30fd",
+      "name": "Ab wheel rollouts",
+      "createdAt": "2026-01-28T12:00:40Z",
+      "updatedAt": "2026-01-28T12:00:40Z"
+    }
+  ],
+  "templates": [
+    {
+      "id": "214675ce3c48840b",
+      "name": "Day1_Push",
+      "exerciseRows": [
+        {
+          "id": "86265ed9e1325460",
+          "exerciseId": "520b40d4b5bbd155",
+          "setsPlanned": 4,
+          "targetReps": "6-8"
+        },
+        {
+          "id": "ce6e66af49842d90",
+          "exerciseId": "aad854d3baca59b6",
+          "setsPlanned": 3,
+          "targetReps": "6-8"
+        },
+        {
+          "id": "6f60f914afa0968e",
+          "exerciseId": "84e2a4f6bf66cba9",
+          "setsPlanned": 3,
+          "targetReps": "8-10"
+        },
+        {
+          "id": "bf8b65873fa45ef3",
+          "exerciseId": "2802129e820758bf",
+          "setsPlanned": 3,
+          "targetReps": "8-10"
+        },
+        {
+          "id": "a66c66f5320c7e8e",
+          "exerciseId": "75fe38737e570f2f",
+          "setsPlanned": 3,
+          "targetReps": "12-15"
+        }
+      ],
+      "createdAt": "2026-01-28T12:00:40Z",
+      "updatedAt": "2026-01-28T12:00:40Z"
+    },
+    {
+      "id": "d3f5d83da0ce77d8",
+      "name": "Day2_Pull",
+      "exerciseRows": [
+        {
+          "id": "1a96062aa694447d",
+          "exerciseId": "e168020bbab768c3",
+          "setsPlanned": 4,
+          "targetReps": ""
+        },
+        {
+          "id": "f24be312585a8a8b",
+          "exerciseId": "03693efd21f4c5b0",
+          "setsPlanned": 4,
+          "targetReps": "8"
+        },
+        {
+          "id": "7321097f29758717",
+          "exerciseId": "04e30fdf1cf7bc5f",
+          "setsPlanned": 3,
+          "targetReps": "8"
+        },
+        {
+          "id": "40fcfd0c3708f3c6",
+          "exerciseId": "f130c423215e6c9c",
+          "setsPlanned": 3,
+          "targetReps": "8"
+        },
+        {
+          "id": "ea9d96ff2ec1b5ba",
+          "exerciseId": "004118f01514c872",
+          "setsPlanned": 3,
+          "targetReps": "10"
+        }
+      ],
+      "createdAt": "2026-01-28T12:00:40Z",
+      "updatedAt": "2026-01-28T12:00:40Z"
+    },
+    {
+      "id": "3855e186b14d3c29",
+      "name": "Day3_Legs_Core",
+      "exerciseRows": [
+        {
+          "id": "68075cab4df0cd06",
+          "exerciseId": "b5fa12b4fb9cefa4",
+          "setsPlanned": 4,
+          "targetReps": "6"
+        },
+        {
+          "id": "f9126fcf0dbb11ae",
+          "exerciseId": "9e8b0445b350ed74",
+          "setsPlanned": 3,
+          "targetReps": "8"
+        },
+        {
+          "id": "860901eaf76d39ec",
+          "exerciseId": "2536c547584e86ef",
+          "setsPlanned": 3,
+          "targetReps": "10"
+        },
+        {
+          "id": "bf65264562e68bb7",
+          "exerciseId": "9c8adfaf0c3ffa39",
+          "setsPlanned": 3,
+          "targetReps": "12"
+        },
+        {
+          "id": "c5bf5f79f90c071e",
+          "exerciseId": "1be1617b11da30fd",
+          "setsPlanned": 3,
+          "targetReps": "10"
+        }
+      ],
+      "createdAt": "2026-01-28T12:00:40Z",
+      "updatedAt": "2026-01-28T12:00:40Z"
+    }
+  ],
+  "sessions": [
+    {
+      "id": "c4cd0095de6ef92a",
+      "dateISO": "2026-01-27",
+      "templateId": "214675ce3c48840b",
+      "templateName": "Day1_Push",
+      "entries": [
+        {
+          "exerciseId": "520b40d4b5bbd155",
+          "exerciseName": "Barbell bench press",
+          "targetReps": "6-8",
+          "sets": [
+            {
+              "reps": 70,
+              "weightKg": null
+            },
+            {
+              "reps": 70,
+              "weightKg": null
+            },
+            {
+              "reps": 70,
+              "weightKg": null
+            },
+            {
+              "reps": 70,
+              "weightKg": null
+            }
+          ]
+        },
+        {
+          "exerciseId": "aad854d3baca59b6",
+          "exerciseName": "Dumbell overhead press",
+          "targetReps": "6-8",
+          "sets": [
+            {
+              "reps": 18,
+              "weightKg": null
+            },
+            {
+              "reps": 18,
+              "weightKg": null
+            },
+            {
+              "reps": 18,
+              "weightKg": null
+            }
+          ]
+        },
+        {
+          "exerciseId": "84e2a4f6bf66cba9",
+          "exerciseName": "Incline dumbbell press",
+          "targetReps": "8-10",
+          "sets": [
+            {
+              "reps": 22,
+              "weightKg": null
+            },
+            {
+              "reps": 22,
+              "weightKg": null
+            },
+            {
+              "reps": 22,
+              "weightKg": null
+            }
+          ]
+        },
+        {
+          "exerciseId": "2802129e820758bf",
+          "exerciseName": "Weighted dips",
+          "targetReps": "8-10",
+          "sets": [
+            {
+              "reps": 8,
+              "weightKg": null
+            },
+            {
+              "reps": 8,
+              "weightKg": null
+            },
+            {
+              "reps": 8,
+              "weightKg": null
+            }
+          ]
+        },
+        {
+          "exerciseId": "75fe38737e570f2f",
+          "exerciseName": "Lateral raises",
+          "targetReps": "12-15",
+          "sets": [
+            {
+              "reps": 5,
+              "weightKg": null
+            },
+            {
+              "reps": 5,
+              "weightKg": null
+            },
+            {
+              "reps": 5,
+              "weightKg": null
+            }
+          ]
+        }
+      ],
+      "createdAt": "2026-01-28T12:00:40Z",
+      "updatedAt": "2026-01-28T12:00:40Z"
+    },
+    {
+      "id": "84680c37fcb370b3",
+      "dateISO": "2026-01-22",
+      "templateId": "d3f5d83da0ce77d8",
+      "templateName": "Day2_Pull",
+      "entries": [
+        {
+          "exerciseId": "e168020bbab768c3",
+          "exerciseName": "Pull-ups",
+          "targetReps": "",
+          "sets": [
+            {
+              "reps": 10,
+              "weightKg": null
+            },
+            {
+              "reps": 10,
+              "weightKg": null
+            },
+            {
+              "reps": 10,
+              "weightKg": null
+            },
+            {
+              "reps": 10,
+              "weightKg": null
+            }
+          ]
+        },
+        {
+          "exerciseId": "03693efd21f4c5b0",
+          "exerciseName": "Barbell bent-over row",
+          "targetReps": "8",
+          "sets": [
+            {
+              "reps": 50,
+              "weightKg": null
+            },
+            {
+              "reps": 50,
+              "weightKg": null
+            },
+            {
+              "reps": 50,
+              "weightKg": null
+            },
+            {
+              "reps": 50,
+              "weightKg": null
+            }
+          ]
+        },
+        {
+          "exerciseId": "04e30fdf1cf7bc5f",
+          "exerciseName": "Seated cable row / DB row",
+          "targetReps": "8",
+          "sets": [
+            {
+              "reps": 50,
+              "weightKg": null
+            },
+            {
+              "reps": 50,
+              "weightKg": null
+            },
+            {
+              "reps": 50,
+              "weightKg": null
+            }
+          ]
+        },
+        {
+          "exerciseId": "f130c423215e6c9c",
+          "exerciseName": "Barbell curls",
+          "targetReps": "8",
+          "sets": [
+            {
+              "reps": null,
+              "weightKg": null
+            },
+            {
+              "reps": null,
+              "weightKg": null
+            },
+            {
+              "reps": null,
+              "weightKg": null
+            }
+          ]
+        },
+        {
+          "exerciseId": "004118f01514c872",
+          "exerciseName": "Hammer curls",
+          "targetReps": "10",
+          "sets": [
+            {
+              "reps": 10,
+              "weightKg": null
+            },
+            {
+              "reps": 10,
+              "weightKg": null
+            },
+            {
+              "reps": 10,
+              "weightKg": null
+            }
+          ]
+        }
+      ],
+      "createdAt": "2026-01-28T12:00:40Z",
+      "updatedAt": "2026-01-28T12:00:40Z"
+    },
+    {
+      "id": "98fb166cfb7aeabe",
+      "dateISO": "2026-01-20",
+      "templateId": "214675ce3c48840b",
+      "templateName": "Day1_Push",
+      "entries": [
+        {
+          "exerciseId": "520b40d4b5bbd155",
+          "exerciseName": "Barbell bench press",
+          "targetReps": "6-8",
+          "sets": [
+            {
+              "reps": 68,
+              "weightKg": 8.0
+            },
+            {
+              "reps": 68,
+              "weightKg": 8.0
+            },
+            {
+              "reps": 68,
+              "weightKg": 7.0
+            },
+            {
+              "reps": 68,
+              "weightKg": 6.0
+            }
+          ]
+        },
+        {
+          "exerciseId": "aad854d3baca59b6",
+          "exerciseName": "Dumbell overhead press",
+          "targetReps": "6-8",
+          "sets": [
+            {
+              "reps": 18,
+              "weightKg": 8.0
+            },
+            {
+              "reps": 18,
+              "weightKg": 8.0
+            },
+            {
+              "reps": 18,
+              "weightKg": 8.0
+            }
+          ]
+        },
+        {
+          "exerciseId": "84e2a4f6bf66cba9",
+          "exerciseName": "Incline dumbbell press",
+          "targetReps": "8-10",
+          "sets": [
+            {
+              "reps": 20,
+              "weightKg": 10.0
+            },
+            {
+              "reps": 22,
+              "weightKg": 10.0
+            },
+            {
+              "reps": 22,
+              "weightKg": 10.0
+            }
+          ]
+        },
+        {
+          "exerciseId": "2802129e820758bf",
+          "exerciseName": "Weighted dips",
+          "targetReps": "8-10",
+          "sets": [
+            {
+              "reps": 8,
+              "weightKg": 8.0
+            },
+            {
+              "reps": 8,
+              "weightKg": 8.0
+            },
+            {
+              "reps": 8,
+              "weightKg": 8.0
+            }
+          ]
+        },
+        {
+          "exerciseId": "75fe38737e570f2f",
+          "exerciseName": "Lateral raises",
+          "targetReps": "12-15",
+          "sets": [
+            {
+              "reps": 5,
+              "weightKg": 15.0
+            },
+            {
+              "reps": 5,
+              "weightKg": 15.0
+            },
+            {
+              "reps": 5,
+              "weightKg": 12.0
+            }
+          ]
+        }
+      ],
+      "createdAt": "2026-01-28T12:00:40Z",
+      "updatedAt": "2026-01-28T12:00:40Z"
+    },
+    {
+      "id": "1bd91e61aa192310",
+      "dateISO": "2026-01-15",
+      "templateId": "d3f5d83da0ce77d8",
+      "templateName": "Day2_Pull",
+      "entries": [
+        {
+          "exerciseId": "e168020bbab768c3",
+          "exerciseName": "Pull-ups",
+          "targetReps": "",
+          "sets": [
+            {
+              "reps": 10,
+              "weightKg": 10.0
+            },
+            {
+              "reps": 10,
+              "weightKg": 10.0
+            },
+            {
+              "reps": 10,
+              "weightKg": 10.0
+            },
+            {
+              "reps": 10,
+              "weightKg": 10.0
+            }
+          ]
+        },
+        {
+          "exerciseId": "03693efd21f4c5b0",
+          "exerciseName": "Barbell bent-over row",
+          "targetReps": "8",
+          "sets": [
+            {
+              "reps": null,
+              "weightKg": 8.0
+            },
+            {
+              "reps": null,
+              "weightKg": 8.0
+            },
+            {
+              "reps": null,
+              "weightKg": 8.0
+            },
+            {
+              "reps": null,
+              "weightKg": 8.0
+            }
+          ]
+        },
+        {
+          "exerciseId": "04e30fdf1cf7bc5f",
+          "exerciseName": "Seated cable row / DB row",
+          "targetReps": "8",
+          "sets": [
+            {
+              "reps": 45,
+              "weightKg": 8.0
+            },
+            {
+              "reps": 45,
+              "weightKg": 8.0
+            },
+            {
+              "reps": 45,
+              "weightKg": 8.0
+            }
+          ]
+        },
+        {
+          "exerciseId": "f130c423215e6c9c",
+          "exerciseName": "Barbell curls",
+          "targetReps": "8",
+          "sets": [
+            {
+              "reps": null,
+              "weightKg": 8.0
+            },
+            {
+              "reps": null,
+              "weightKg": 8.0
+            },
+            {
+              "reps": null,
+              "weightKg": 8.0
+            }
+          ]
+        },
+        {
+          "exerciseId": "004118f01514c872",
+          "exerciseName": "Hammer curls",
+          "targetReps": "10",
+          "sets": [
+            {
+              "reps": 10,
+              "weightKg": 10.0
+            },
+            {
+              "reps": 10,
+              "weightKg": 10.0
+            },
+            {
+              "reps": 10,
+              "weightKg": 10.0
+            }
+          ]
+        }
+      ],
+      "createdAt": "2026-01-28T12:00:40Z",
+      "updatedAt": "2026-01-28T12:00:40Z"
+    },
+    {
+      "id": "610b88625183fedd",
+      "dateISO": "2026-01-13",
+      "templateId": "214675ce3c48840b",
+      "templateName": "Day1_Push",
+      "entries": [
+        {
+          "exerciseId": "520b40d4b5bbd155",
+          "exerciseName": "Barbell bench press",
+          "targetReps": "6-8",
+          "sets": [
+            {
+              "reps": 68,
+              "weightKg": 8.0
+            },
+            {
+              "reps": 68,
+              "weightKg": 8.0
+            },
+            {
+              "reps": 68,
+              "weightKg": 8.0
+            },
+            {
+              "reps": 68,
+              "weightKg": 8.0
+            }
+          ]
+        },
+        {
+          "exerciseId": "aad854d3baca59b6",
+          "exerciseName": "Dumbell overhead press",
+          "targetReps": "6-8",
+          "sets": [
+            {
+              "reps": 18,
+              "weightKg": 8.0
+            },
+            {
+              "reps": 18,
+              "weightKg": 8.0
+            },
+            {
+              "reps": 18,
+              "weightKg": 8.0
+            }
+          ]
+        },
+        {
+          "exerciseId": "84e2a4f6bf66cba9",
+          "exerciseName": "Incline dumbbell press",
+          "targetReps": "8-10",
+          "sets": [
+            {
+              "reps": 20,
+              "weightKg": 10.0
+            },
+            {
+              "reps": 20,
+              "weightKg": 10.0
+            },
+            {
+              "reps": 20,
+              "weightKg": 10.0
+            }
+          ]
+        },
+        {
+          "exerciseId": "2802129e820758bf",
+          "exerciseName": "Weighted dips",
+          "targetReps": "8-10",
+          "sets": [
+            {
+              "reps": 5,
+              "weightKg": 8.0
+            },
+            {
+              "reps": 5,
+              "weightKg": 8.0
+            },
+            {
+              "reps": 5,
+              "weightKg": 8.0
+            }
+          ]
+        },
+        {
+          "exerciseId": "75fe38737e570f2f",
+          "exerciseName": "Lateral raises",
+          "targetReps": "12-15",
+          "sets": [
+            {
+              "reps": 5,
+              "weightKg": 15.0
+            },
+            {
+              "reps": 5,
+              "weightKg": 15.0
+            },
+            {
+              "reps": 5,
+              "weightKg": 12.0
+            }
+          ]
+        }
+      ],
+      "createdAt": "2026-01-28T12:00:40Z",
+      "updatedAt": "2026-01-28T12:00:40Z"
+    },
+    {
+      "id": "13e810febb91c0b8",
+      "dateISO": "2026-01-10",
+      "templateId": "3855e186b14d3c29",
+      "templateName": "Day3_Legs_Core",
+      "entries": [
+        {
+          "exerciseId": "b5fa12b4fb9cefa4",
+          "exerciseName": "Back squat",
+          "targetReps": "6",
+          "sets": [
+            {
+              "reps": 60,
+              "weightKg": null
+            },
+            {
+              "reps": 65,
+              "weightKg": null
+            },
+            {
+              "reps": 65,
+              "weightKg": null
+            },
+            {
+              "reps": 65,
+              "weightKg": null
+            }
+          ]
+        },
+        {
+          "exerciseId": "9e8b0445b350ed74",
+          "exerciseName": "Romanian deadlift",
+          "targetReps": "8",
+          "sets": [
+            {
+              "reps": 75,
+              "weightKg": null
+            },
+            {
+              "reps": 75,
+              "weightKg": null
+            },
+            {
+              "reps": 75,
+              "weightKg": null
+            }
+          ]
+        },
+        {
+          "exerciseId": "2536c547584e86ef",
+          "exerciseName": "Bulgarian split squat",
+          "targetReps": "10",
+          "sets": [
+            {
+              "reps": 10,
+              "weightKg": null
+            },
+            {
+              "reps": 10,
+              "weightKg": null
+            },
+            {
+              "reps": 10,
+              "weightKg": null
+            }
+          ]
+        },
+        {
+          "exerciseId": "9c8adfaf0c3ffa39",
+          "exerciseName": "Hanging leg raises",
+          "targetReps": "12",
+          "sets": [
+            {
+              "reps": 0,
+              "weightKg": null
+            },
+            {
+              "reps": 0,
+              "weightKg": null
+            },
+            {
+              "reps": 0,
+              "weightKg": null
+            }
+          ]
+        },
+        {
+          "exerciseId": "1be1617b11da30fd",
+          "exerciseName": "Ab wheel rollouts",
+          "targetReps": "10",
+          "sets": [
+            {
+              "reps": null,
+              "weightKg": null
+            },
+            {
+              "reps": null,
+              "weightKg": null
+            },
+            {
+              "reps": null,
+              "weightKg": null
+            }
+          ]
+        }
+      ],
+      "createdAt": "2026-01-28T12:00:40Z",
+      "updatedAt": "2026-01-28T12:00:40Z"
+    },
+    {
+      "id": "4e7eb2619592e278",
+      "dateISO": "2026-01-08",
+      "templateId": "d3f5d83da0ce77d8",
+      "templateName": "Day2_Pull",
+      "entries": [
+        {
+          "exerciseId": "e168020bbab768c3",
+          "exerciseName": "Pull-ups",
+          "targetReps": "",
+          "sets": [
+            {
+              "reps": 8,
+              "weightKg": 10.0
+            },
+            {
+              "reps": 8,
+              "weightKg": 9.0
+            },
+            {
+              "reps": 8,
+              "weightKg": 8.0
+            },
+            {
+              "reps": 8,
+              "weightKg": 8.0
+            }
+          ]
+        },
+        {
+          "exerciseId": "03693efd21f4c5b0",
+          "exerciseName": "Barbell bent-over row",
+          "targetReps": "8",
+          "sets": [
+            {
+              "reps": 48,
+              "weightKg": 8.0
+            },
+            {
+              "reps": 48,
+              "weightKg": 8.0
+            },
+            {
+              "reps": 48,
+              "weightKg": 8.0
+            },
+            {
+              "reps": 48,
+              "weightKg": 8.0
+            }
+          ]
+        },
+        {
+          "exerciseId": "04e30fdf1cf7bc5f",
+          "exerciseName": "Seated cable row / DB row",
+          "targetReps": "8",
+          "sets": [
+            {
+              "reps": 43,
+              "weightKg": 8.0
+            },
+            {
+              "reps": 43,
+              "weightKg": 8.0
+            },
+            {
+              "reps": 43,
+              "weightKg": 8.0
+            }
+          ]
+        },
+        {
+          "exerciseId": "f130c423215e6c9c",
+          "exerciseName": "Barbell curls",
+          "targetReps": "8",
+          "sets": [
+            {
+              "reps": 25,
+              "weightKg": 8.0
+            },
+            {
+              "reps": 28,
+              "weightKg": 8.0
+            },
+            {
+              "reps": 28,
+              "weightKg": 7.0
+            }
+          ]
+        },
+        {
+          "exerciseId": "004118f01514c872",
+          "exerciseName": "Hammer curls",
+          "targetReps": "10",
+          "sets": [
+            {
+              "reps": 10,
+              "weightKg": 10.0
+            },
+            {
+              "reps": 10,
+              "weightKg": 8.0
+            },
+            {
+              "reps": 10,
+              "weightKg": 10.0
+            }
+          ]
+        }
+      ],
+      "createdAt": "2026-01-28T12:00:40Z",
+      "updatedAt": "2026-01-28T12:00:40Z"
+    },
+    {
+      "id": "cb892b28465cc8dd",
+      "dateISO": "2026-01-06",
+      "templateId": "214675ce3c48840b",
+      "templateName": "Day1_Push",
+      "entries": [
+        {
+          "exerciseId": "520b40d4b5bbd155",
+          "exerciseName": "Barbell bench press",
+          "targetReps": "6-8",
+          "sets": [
+            {
+              "reps": 65,
+              "weightKg": 8.0
+            },
+            {
+              "reps": 65,
+              "weightKg": 8.0
+            },
+            {
+              "reps": 65,
+              "weightKg": 7.0
+            },
+            {
+              "reps": 65,
+              "weightKg": 6.0
+            }
+          ]
+        },
+        {
+          "exerciseId": "aad854d3baca59b6",
+          "exerciseName": "Dumbell overhead press",
+          "targetReps": "6-8",
+          "sets": [
+            {
+              "reps": 15,
+              "weightKg": 8.0
+            },
+            {
+              "reps": 18,
+              "weightKg": 8.0
+            },
+            {
+              "reps": 15,
+              "weightKg": 8.0
+            }
+          ]
+        },
+        {
+          "exerciseId": "84e2a4f6bf66cba9",
+          "exerciseName": "Incline dumbbell press",
+          "targetReps": "8-10",
+          "sets": [
+            {
+              "reps": 20,
+              "weightKg": 10.0
+            },
+            {
+              "reps": 20,
+              "weightKg": 10.0
+            },
+            {
+              "reps": 20,
+              "weightKg": 10.0
+            }
+          ]
+        },
+        {
+          "exerciseId": "2802129e820758bf",
+          "exerciseName": "Weighted dips",
+          "targetReps": "8-10",
+          "sets": [
+            {
+              "reps": 5,
+              "weightKg": 8.0
+            },
+            {
+              "reps": 5,
+              "weightKg": 8.0
+            },
+            {
+              "reps": 5,
+              "weightKg": 8.0
+            }
+          ]
+        },
+        {
+          "exerciseId": "75fe38737e570f2f",
+          "exerciseName": "Lateral raises",
+          "targetReps": "12-15",
+          "sets": [
+            {
+              "reps": 5,
+              "weightKg": 15.0
+            },
+            {
+              "reps": 5,
+              "weightKg": 15.0
+            },
+            {
+              "reps": 5,
+              "weightKg": 12.0
+            }
+          ]
+        }
+      ],
+      "createdAt": "2026-01-28T12:00:40Z",
+      "updatedAt": "2026-01-28T12:00:40Z"
+    },
+    {
+      "id": "ba9f1962acc2c51e",
+      "dateISO": "2026-01-03",
+      "templateId": "3855e186b14d3c29",
+      "templateName": "Day3_Legs_Core",
+      "entries": [
+        {
+          "exerciseId": "b5fa12b4fb9cefa4",
+          "exerciseName": "Back squat",
+          "targetReps": "6",
+          "sets": [
+            {
+              "reps": 60,
+              "weightKg": 8.0
+            },
+            {
+              "reps": 60,
+              "weightKg": 8.0
+            },
+            {
+              "reps": 60,
+              "weightKg": 8.0
+            },
+            {
+              "reps": 60,
+              "weightKg": 8.0
+            }
+          ]
+        },
+        {
+          "exerciseId": "9e8b0445b350ed74",
+          "exerciseName": "Romanian deadlift",
+          "targetReps": "8",
+          "sets": [
+            {
+              "reps": 70,
+              "weightKg": 8.0
+            },
+            {
+              "reps": 70,
+              "weightKg": 8.0
+            },
+            {
+              "reps": 70,
+              "weightKg": 8.0
+            }
+          ]
+        },
+        {
+          "exerciseId": "2536c547584e86ef",
+          "exerciseName": "Bulgarian split squat",
+          "targetReps": "10",
+          "sets": [
+            {
+              "reps": 0,
+              "weightKg": 10.0
+            },
+            {
+              "reps": 0,
+              "weightKg": 10.0
+            },
+            {
+              "reps": 0,
+              "weightKg": 10.0
+            }
+          ]
+        },
+        {
+          "exerciseId": "9c8adfaf0c3ffa39",
+          "exerciseName": "Hanging leg raises",
+          "targetReps": "12",
+          "sets": [
+            {
+              "reps": 0,
+              "weightKg": 7.0
+            },
+            {
+              "reps": 0,
+              "weightKg": 8.0
+            },
+            {
+              "reps": 0,
+              "weightKg": 6.0
+            }
+          ]
+        },
+        {
+          "exerciseId": "1be1617b11da30fd",
+          "exerciseName": "Ab wheel rollouts",
+          "targetReps": "10",
+          "sets": [
+            {
+              "reps": null,
+              "weightKg": null
+            },
+            {
+              "reps": null,
+              "weightKg": null
+            },
+            {
+              "reps": null,
+              "weightKg": null
+            }
+          ]
+        }
+      ],
+      "createdAt": "2026-01-28T12:00:40Z",
+      "updatedAt": "2026-01-28T12:00:40Z"
+    },
+    {
+      "id": "dad27d9e727244ee",
+      "dateISO": "2026-01-01",
+      "templateId": "214675ce3c48840b",
+      "templateName": "Day1_Push",
+      "entries": [
+        {
+          "exerciseId": "520b40d4b5bbd155",
+          "exerciseName": "Barbell bench press",
+          "targetReps": "6-8",
+          "sets": [
+            {
+              "reps": 60,
+              "weightKg": 8.0
+            },
+            {
+              "reps": 65,
+              "weightKg": 8.0
+            },
+            {
+              "reps": 65,
+              "weightKg": 6.0
+            },
+            {
+              "reps": 65,
+              "weightKg": 6.0
+            }
+          ]
+        },
+        {
+          "exerciseId": "aad854d3baca59b6",
+          "exerciseName": "Dumbell overhead press",
+          "targetReps": "6-8",
+          "sets": [
+            {
+              "reps": 15,
+              "weightKg": 8.0
+            },
+            {
+              "reps": 15,
+              "weightKg": 8.0
+            },
+            {
+              "reps": 15,
+              "weightKg": 8.0
+            }
+          ]
+        },
+        {
+          "exerciseId": "84e2a4f6bf66cba9",
+          "exerciseName": "Incline dumbbell press",
+          "targetReps": "8-10",
+          "sets": [
+            {
+              "reps": 18,
+              "weightKg": 8.0
+            },
+            {
+              "reps": 18,
+              "weightKg": 9.0
+            },
+            {
+              "reps": 18,
+              "weightKg": 10.0
+            }
+          ]
+        },
+        {
+          "exerciseId": "2802129e820758bf",
+          "exerciseName": "Weighted dips",
+          "targetReps": "8-10",
+          "sets": [
+            {
+              "reps": 0,
+              "weightKg": 8.0
+            },
+            {
+              "reps": null,
+              "weightKg": 8.0
+            },
+            {
+              "reps": null,
+              "weightKg": 8.0
+            }
+          ]
+        },
+        {
+          "exerciseId": "75fe38737e570f2f",
+          "exerciseName": "Lateral raises",
+          "targetReps": "12-15",
+          "sets": [
+            {
+              "reps": 5,
+              "weightKg": 15.0
+            },
+            {
+              "reps": 5,
+              "weightKg": 15.0
+            },
+            {
+              "reps": 5,
+              "weightKg": 12.0
+            }
+          ]
+        }
+      ],
+      "createdAt": "2026-01-28T12:00:40Z",
+      "updatedAt": "2026-01-28T12:00:40Z"
+    },
+    {
+      "id": "2b27eedcb32cbd0c",
+      "dateISO": "2025-12-27",
+      "templateId": "d3f5d83da0ce77d8",
+      "templateName": "Day2_Pull",
+      "entries": [
+        {
+          "exerciseId": "e168020bbab768c3",
+          "exerciseName": "Pull-ups",
+          "targetReps": "",
+          "sets": [
+            {
+              "reps": 5,
+              "weightKg": 10.0
+            },
+            {
+              "reps": 8,
+              "weightKg": 10.0
+            },
+            {
+              "reps": null,
+              "weightKg": 10.0
+            },
+            {
+              "reps": null,
+              "weightKg": 10.0
+            }
+          ]
+        },
+        {
+          "exerciseId": "03693efd21f4c5b0",
+          "exerciseName": "Barbell bent-over row",
+          "targetReps": "8",
+          "sets": [
+            {
+              "reps": 45,
+              "weightKg": 8.0
+            },
+            {
+              "reps": 45,
+              "weightKg": 8.0
+            },
+            {
+              "reps": 45,
+              "weightKg": 8.0
+            },
+            {
+              "reps": null,
+              "weightKg": 8.0
+            }
+          ]
+        },
+        {
+          "exerciseId": "04e30fdf1cf7bc5f",
+          "exerciseName": "Seated cable row / DB row",
+          "targetReps": "8",
+          "sets": [
+            {
+              "reps": 40,
+              "weightKg": 8.0
+            },
+            {
+              "reps": 40,
+              "weightKg": 8.0
+            },
+            {
+              "reps": 40,
+              "weightKg": 8.0
+            }
+          ]
+        },
+        {
+          "exerciseId": "f130c423215e6c9c",
+          "exerciseName": "Barbell curls",
+          "targetReps": "8",
+          "sets": [
+            {
+              "reps": 25,
+              "weightKg": 8.0
+            },
+            {
+              "reps": 25,
+              "weightKg": 8.0
+            },
+            {
+              "reps": 25,
+              "weightKg": 8.0
+            }
+          ]
+        },
+        {
+          "exerciseId": "004118f01514c872",
+          "exerciseName": "Hammer curls",
+          "targetReps": "10",
+          "sets": [
+            {
+              "reps": 10,
+              "weightKg": 9.0
+            },
+            {
+              "reps": 10,
+              "weightKg": 9.0
+            },
+            {
+              "reps": 10,
+              "weightKg": 7.0
+            }
+          ]
+        }
+      ],
+      "createdAt": "2026-01-28T12:00:40Z",
+      "updatedAt": "2026-01-28T12:00:40Z"
+    },
+    {
+      "id": "d1d2a8ad5174bb8b",
+      "dateISO": "2025-12-16",
+      "templateId": "214675ce3c48840b",
+      "templateName": "Day1_Push",
+      "entries": [
+        {
+          "exerciseId": "520b40d4b5bbd155",
+          "exerciseName": "Barbell bench press",
+          "targetReps": "6-8",
+          "sets": [
+            {
+              "reps": 65,
+              "weightKg": 8.0
+            },
+            {
+              "reps": 65,
+              "weightKg": 8.0
+            },
+            {
+              "reps": 65,
+              "weightKg": 6.0
+            },
+            {
+              "reps": 65,
+              "weightKg": 6.0
+            }
+          ]
+        },
+        {
+          "exerciseId": "aad854d3baca59b6",
+          "exerciseName": "Dumbell overhead press",
+          "targetReps": "6-8",
+          "sets": [
+            {
+              "reps": 15,
+              "weightKg": 8.0
+            },
+            {
+              "reps": 15,
+              "weightKg": 8.0
+            },
+            {
+              "reps": 15,
+              "weightKg": 8.0
+            }
+          ]
+        },
+        {
+          "exerciseId": "84e2a4f6bf66cba9",
+          "exerciseName": "Incline dumbbell press",
+          "targetReps": "8-10",
+          "sets": [
+            {
+              "reps": 18,
+              "weightKg": 10.0
+            },
+            {
+              "reps": 18,
+              "weightKg": 10.0
+            },
+            {
+              "reps": 18,
+              "weightKg": 10.0
+            }
+          ]
+        },
+        {
+          "exerciseId": "2802129e820758bf",
+          "exerciseName": "Weighted dips",
+          "targetReps": "8-10",
+          "sets": [
+            {
+              "reps": 5,
+              "weightKg": 8.0
+            },
+            {
+              "reps": 5,
+              "weightKg": null
+            },
+            {
+              "reps": 5,
+              "weightKg": null
+            }
+          ]
+        },
+        {
+          "exerciseId": "75fe38737e570f2f",
+          "exerciseName": "Lateral raises",
+          "targetReps": "12-15",
+          "sets": [
+            {
+              "reps": 5,
+              "weightKg": 15.0
+            },
+            {
+              "reps": 5,
+              "weightKg": 12.0
+            },
+            {
+              "reps": 5,
+              "weightKg": 12.0
+            }
+          ]
+        }
+      ],
+      "createdAt": "2026-01-28T12:00:40Z",
+      "updatedAt": "2026-01-28T12:00:40Z"
+    },
+    {
+      "id": "607f0e89b4a8bdd1",
+      "dateISO": "2025-12-11",
+      "templateId": "d3f5d83da0ce77d8",
+      "templateName": "Day2_Pull",
+      "entries": [
+        {
+          "exerciseId": "e168020bbab768c3",
+          "exerciseName": "Pull-ups",
+          "targetReps": "",
+          "sets": [
+            {
+              "reps": 5,
+              "weightKg": 10.0
+            },
+            {
+              "reps": 5,
+              "weightKg": 7.0
+            },
+            {
+              "reps": 5,
+              "weightKg": 7.0
+            },
+            {
+              "reps": 5,
+              "weightKg": 5.0
+            }
+          ]
+        },
+        {
+          "exerciseId": "03693efd21f4c5b0",
+          "exerciseName": "Barbell bent-over row",
+          "targetReps": "8",
+          "sets": [
+            {
+              "reps": 45,
+              "weightKg": 8.0
+            },
+            {
+              "reps": 45,
+              "weightKg": 8.0
+            },
+            {
+              "reps": 45,
+              "weightKg": 8.0
+            },
+            {
+              "reps": 45,
+              "weightKg": 8.0
+            }
+          ]
+        },
+        {
+          "exerciseId": "04e30fdf1cf7bc5f",
+          "exerciseName": "Seated cable row / DB row",
+          "targetReps": "8",
+          "sets": [
+            {
+              "reps": 40,
+              "weightKg": 8.0
+            },
+            {
+              "reps": 40,
+              "weightKg": 8.0
+            },
+            {
+              "reps": 40,
+              "weightKg": 8.0
+            }
+          ]
+        },
+        {
+          "exerciseId": "f130c423215e6c9c",
+          "exerciseName": "Barbell curls",
+          "targetReps": "8",
+          "sets": [
+            {
+              "reps": 25,
+              "weightKg": 8.0
+            },
+            {
+              "reps": 25,
+              "weightKg": 8.0
+            },
+            {
+              "reps": 25,
+              "weightKg": 8.0
+            }
+          ]
+        },
+        {
+          "exerciseId": "004118f01514c872",
+          "exerciseName": "Hammer curls",
+          "targetReps": "10",
+          "sets": [
+            {
+              "reps": 10,
+              "weightKg": 10.0
+            },
+            {
+              "reps": 10,
+              "weightKg": 6.0
+            },
+            {
+              "reps": 10,
+              "weightKg": 6.0
+            }
+          ]
+        }
+      ],
+      "createdAt": "2026-01-28T12:00:40Z",
+      "updatedAt": "2026-01-28T12:00:40Z"
+    },
+    {
+      "id": "0cdde9861038707f",
+      "dateISO": "2025-12-08",
+      "templateId": "214675ce3c48840b",
+      "templateName": "Day1_Push",
+      "entries": [
+        {
+          "exerciseId": "520b40d4b5bbd155",
+          "exerciseName": "Barbell bench press",
+          "targetReps": "6-8",
+          "sets": [
+            {
+              "reps": 62,
+              "weightKg": 8.0
+            },
+            {
+              "reps": 62,
+              "weightKg": 8.0
+            },
+            {
+              "reps": 62,
+              "weightKg": 8.0
+            },
+            {
+              "reps": 62,
+              "weightKg": 8.0
+            }
+          ]
+        },
+        {
+          "exerciseId": "aad854d3baca59b6",
+          "exerciseName": "Dumbell overhead press",
+          "targetReps": "6-8",
+          "sets": [
+            {
+              "reps": 32,
+              "weightKg": 8.0
+            },
+            {
+              "reps": 32,
+              "weightKg": 8.0
+            },
+            {
+              "reps": 32,
+              "weightKg": 8.0
+            }
+          ]
+        },
+        {
+          "exerciseId": "84e2a4f6bf66cba9",
+          "exerciseName": "Incline dumbbell press",
+          "targetReps": "8-10",
+          "sets": [
+            {
+              "reps": 18,
+              "weightKg": 10.0
+            },
+            {
+              "reps": 18,
+              "weightKg": 10.0
+            },
+            {
+              "reps": 18,
+              "weightKg": 10.0
+            }
+          ]
+        },
+        {
+          "exerciseId": "2802129e820758bf",
+          "exerciseName": "Weighted dips",
+          "targetReps": "8-10",
+          "sets": [
+            {
+              "reps": 5,
+              "weightKg": 8.0
+            },
+            {
+              "reps": 5,
+              "weightKg": 8.0
+            },
+            {
+              "reps": 5,
+              "weightKg": 8.0
+            }
+          ]
+        },
+        {
+          "exerciseId": "75fe38737e570f2f",
+          "exerciseName": "Lateral raises",
+          "targetReps": "12-15",
+          "sets": [
+            {
+              "reps": 5,
+              "weightKg": 15.0
+            },
+            {
+              "reps": 5,
+              "weightKg": 15.0
+            },
+            {
+              "reps": 5,
+              "weightKg": 15.0
+            }
+          ]
+        }
+      ],
+      "createdAt": "2026-01-28T12:00:40Z",
+      "updatedAt": "2026-01-28T12:00:40Z"
+    },
+    {
+      "id": "4868afcc856f928c",
+      "dateISO": "2025-12-04",
+      "templateId": "d3f5d83da0ce77d8",
+      "templateName": "Day2_Pull",
+      "entries": [
+        {
+          "exerciseId": "e168020bbab768c3",
+          "exerciseName": "Pull-ups",
+          "targetReps": "",
+          "sets": [
+            {
+              "reps": 0,
+              "weightKg": 10.0
+            },
+            {
+              "reps": 0,
+              "weightKg": 10.0
+            },
+            {
+              "reps": 5,
+              "weightKg": 9.0
+            },
+            {
+              "reps": 5,
+              "weightKg": 7.0
+            }
+          ]
+        },
+        {
+          "exerciseId": "03693efd21f4c5b0",
+          "exerciseName": "Barbell bent-over row",
+          "targetReps": "8",
+          "sets": [
+            {
+              "reps": 35,
+              "weightKg": 8.0
+            },
+            {
+              "reps": 45,
+              "weightKg": 8.0
+            },
+            {
+              "reps": null,
+              "weightKg": 8.0
+            },
+            {
+              "reps": 50,
+              "weightKg": 8.0
+            }
+          ]
+        },
+        {
+          "exerciseId": "04e30fdf1cf7bc5f",
+          "exerciseName": "Seated cable row / DB row",
+          "targetReps": "8",
+          "sets": [
+            {
+              "reps": 35,
+              "weightKg": 8.0
+            },
+            {
+              "reps": 45,
+              "weightKg": 8.0
+            },
+            {
+              "reps": 45,
+              "weightKg": 8.0
+            }
+          ]
+        },
+        {
+          "exerciseId": "f130c423215e6c9c",
+          "exerciseName": "Barbell curls",
+          "targetReps": "8",
+          "sets": [
+            {
+              "reps": null,
+              "weightKg": 8.0
+            },
+            {
+              "reps": 25,
+              "weightKg": 8.0
+            },
+            {
+              "reps": null,
+              "weightKg": 8.0
+            }
+          ]
+        },
+        {
+          "exerciseId": "004118f01514c872",
+          "exerciseName": "Hammer curls",
+          "targetReps": "10",
+          "sets": [
+            {
+              "reps": 8,
+              "weightKg": 10.0
+            },
+            {
+              "reps": 8,
+              "weightKg": 10.0
+            },
+            {
+              "reps": 8,
+              "weightKg": 9.0
+            }
+          ]
+        }
+      ],
+      "createdAt": "2026-01-28T12:00:40Z",
+      "updatedAt": "2026-01-28T12:00:40Z"
+    },
+    {
+      "id": "5471daecec4093e4",
+      "dateISO": "2025-12-02",
+      "templateId": "214675ce3c48840b",
+      "templateName": "Day1_Push",
+      "entries": [
+        {
+          "exerciseId": "520b40d4b5bbd155",
+          "exerciseName": "Barbell bench press",
+          "targetReps": "6-8",
+          "sets": [
+            {
+              "reps": 50,
+              "weightKg": 8.0
+            },
+            {
+              "reps": 60,
+              "weightKg": 8.0
+            },
+            {
+              "reps": 70,
+              "weightKg": 8.0
+            },
+            {
+              "reps": 70,
+              "weightKg": 8.0
+            }
+          ]
+        },
+        {
+          "exerciseId": "aad854d3baca59b6",
+          "exerciseName": "Dumbell overhead press",
+          "targetReps": "6-8",
+          "sets": [
+            {
+              "reps": 30,
+              "weightKg": 8.0
+            },
+            {
+              "reps": 35,
+              "weightKg": 8.0
+            },
+            {
+              "reps": null,
+              "weightKg": 10.0
+            }
+          ]
+        },
+        {
+          "exerciseId": "84e2a4f6bf66cba9",
+          "exerciseName": "Incline dumbbell press",
+          "targetReps": "8-10",
+          "sets": [
+            {
+              "reps": 15,
+              "weightKg": 10.0
+            },
+            {
+              "reps": null,
+              "weightKg": 10.0
+            },
+            {
+              "reps": 20,
+              "weightKg": 10.0
+            }
+          ]
+        },
+        {
+          "exerciseId": "2802129e820758bf",
+          "exerciseName": "Weighted dips",
+          "targetReps": "8-10",
+          "sets": [
+            {
+              "reps": null,
+              "weightKg": 8.0
+            },
+            {
+              "reps": null,
+              "weightKg": 8.0
+            },
+            {
+              "reps": null,
+              "weightKg": 8.0
+            }
+          ]
+        },
+        {
+          "exerciseId": "75fe38737e570f2f",
+          "exerciseName": "Lateral raises",
+          "targetReps": "12-15",
+          "sets": [
+            {
+              "reps": null,
+              "weightKg": 15.0
+            },
+            {
+              "reps": null,
+              "weightKg": 15.0
+            },
+            {
+              "reps": null,
+              "weightKg": 15.0
+            }
+          ]
+        }
+      ],
+      "createdAt": "2026-01-28T12:00:40Z",
+      "updatedAt": "2026-01-28T12:00:40Z"
+    },
+    {
+      "id": "438c66ed200762d6",
+      "dateISO": "2025-11-27",
+      "templateId": "d3f5d83da0ce77d8",
+      "templateName": "Day2_Pull",
+      "entries": [
+        {
+          "exerciseId": "e168020bbab768c3",
+          "exerciseName": "Pull-ups",
+          "targetReps": "",
+          "sets": [
+            {
+              "reps": 0,
+              "weightKg": 10.0
+            },
+            {
+              "reps": 0,
+              "weightKg": 10.0
+            },
+            {
+              "reps": 0,
+              "weightKg": 10.0
+            },
+            {
+              "reps": 0,
+              "weightKg": 8.0
+            }
+          ]
+        },
+        {
+          "exerciseId": "03693efd21f4c5b0",
+          "exerciseName": "Barbell bent-over row",
+          "targetReps": "8",
+          "sets": [
+            {
+              "reps": 30,
+              "weightKg": 8.0
+            },
+            {
+              "reps": 40,
+              "weightKg": 8.0
+            },
+            {
+              "reps": 45,
+              "weightKg": 8.0
+            },
+            {
+              "reps": 48,
+              "weightKg": 8.0
+            }
+          ]
+        },
+        {
+          "exerciseId": "04e30fdf1cf7bc5f",
+          "exerciseName": "Seated cable row / DB row",
+          "targetReps": "8",
+          "sets": [
+            {
+              "reps": null,
+              "weightKg": 8.0
+            },
+            {
+              "reps": null,
+              "weightKg": 8.0
+            },
+            {
+              "reps": null,
+              "weightKg": 8.0
+            }
+          ]
+        },
+        {
+          "exerciseId": "f130c423215e6c9c",
+          "exerciseName": "Barbell curls",
+          "targetReps": "8",
+          "sets": [
+            {
+              "reps": 22,
+              "weightKg": 8.0
+            },
+            {
+              "reps": 25,
+              "weightKg": 8.0
+            },
+            {
+              "reps": 28,
+              "weightKg": 8.0
+            }
+          ]
+        },
+        {
+          "exerciseId": "004118f01514c872",
+          "exerciseName": "Hammer curls",
+          "targetReps": "10",
+          "sets": [
+            {
+              "reps": 8,
+              "weightKg": 10.0
+            },
+            {
+              "reps": 8,
+              "weightKg": 10.0
+            },
+            {
+              "reps": 10,
+              "weightKg": 10.0
+            }
+          ]
+        }
+      ],
+      "createdAt": "2026-01-28T12:00:40Z",
+      "updatedAt": "2026-01-28T12:00:40Z"
+    },
+    {
+      "id": "87e97e1bb56eff17",
+      "dateISO": "2025-11-25",
+      "templateId": "214675ce3c48840b",
+      "templateName": "Day1_Push",
+      "entries": [
+        {
+          "exerciseId": "520b40d4b5bbd155",
+          "exerciseName": "Barbell bench press",
+          "targetReps": "6-8",
+          "sets": [
+            {
+              "reps": 50,
+              "weightKg": 8.0
+            },
+            {
+              "reps": 60,
+              "weightKg": 8.0
+            },
+            {
+              "reps": 65,
+              "weightKg": 6.0
+            },
+            {
+              "reps": 68,
+              "weightKg": 5.0
+            }
+          ]
+        },
+        {
+          "exerciseId": "aad854d3baca59b6",
+          "exerciseName": "Dumbell overhead press",
+          "targetReps": "6-8",
+          "sets": [
+            {
+              "reps": 30,
+              "weightKg": 8.0
+            },
+            {
+              "reps": 32,
+              "weightKg": 6.0
+            },
+            {
+              "reps": 35,
+              "weightKg": 8.0
+            }
+          ]
+        },
+        {
+          "exerciseId": "84e2a4f6bf66cba9",
+          "exerciseName": "Incline dumbbell press",
+          "targetReps": "8-10",
+          "sets": [
+            {
+              "reps": 15,
+              "weightKg": 10.0
+            },
+            {
+              "reps": 17,
+              "weightKg": 8.0
+            },
+            {
+              "reps": 18,
+              "weightKg": 7.0
+            }
+          ]
+        },
+        {
+          "exerciseId": "2802129e820758bf",
+          "exerciseName": "Weighted dips",
+          "targetReps": "8-10",
+          "sets": [
+            {
+              "reps": 10,
+              "weightKg": 10.0
+            },
+            {
+              "reps": 8,
+              "weightKg": 10.0
+            },
+            {
+              "reps": 10,
+              "weightKg": 10.0
+            }
+          ]
+        },
+        {
+          "exerciseId": "75fe38737e570f2f",
+          "exerciseName": "Lateral raises",
+          "targetReps": "12-15",
+          "sets": [
+            {
+              "reps": 5,
+              "weightKg": null
+            },
+            {
+              "reps": 5,
+              "weightKg": null
+            },
+            {
+              "reps": 5,
+              "weightKg": null
+            }
+          ]
+        }
+      ],
+      "createdAt": "2026-01-28T12:00:40Z",
+      "updatedAt": "2026-01-28T12:00:40Z"
+    },
+    {
+      "id": "c682f5b9061c8a4b",
+      "dateISO": "2025-11-21",
+      "templateId": "d3f5d83da0ce77d8",
+      "templateName": "Day2_Pull",
+      "entries": [
+        {
+          "exerciseId": "e168020bbab768c3",
+          "exerciseName": "Pull-ups",
+          "targetReps": "",
+          "sets": [
+            {
+              "reps": 0,
+              "weightKg": 10.0
+            },
+            {
+              "reps": 0,
+              "weightKg": 10.0
+            },
+            {
+              "reps": 0,
+              "weightKg": 9.0
+            },
+            {
+              "reps": 0,
+              "weightKg": 10.0
+            }
+          ]
+        },
+        {
+          "exerciseId": "03693efd21f4c5b0",
+          "exerciseName": "Barbell bent-over row",
+          "targetReps": "8",
+          "sets": [
+            {
+              "reps": 30,
+              "weightKg": 8.0
+            },
+            {
+              "reps": 40,
+              "weightKg": 8.0
+            },
+            {
+              "reps": null,
+              "weightKg": 8.0
+            },
+            {
+              "reps": 45,
+              "weightKg": 10.0
+            }
+          ]
+        },
+        {
+          "exerciseId": "04e30fdf1cf7bc5f",
+          "exerciseName": "Seated cable row / DB row",
+          "targetReps": "8",
+          "sets": [
+            {
+              "reps": 37,
+              "weightKg": 8.0
+            },
+            {
+              "reps": 37,
+              "weightKg": 8.0
+            },
+            {
+              "reps": 42,
+              "weightKg": 8.0
+            }
+          ]
+        },
+        {
+          "exerciseId": "f130c423215e6c9c",
+          "exerciseName": "Barbell curls",
+          "targetReps": "8",
+          "sets": [
+            {
+              "reps": 22,
+              "weightKg": 8.0
+            },
+            {
+              "reps": 25,
+              "weightKg": 8.0
+            },
+            {
+              "reps": 25,
+              "weightKg": 8.0
+            }
+          ]
+        },
+        {
+          "exerciseId": "004118f01514c872",
+          "exerciseName": "Hammer curls",
+          "targetReps": "10",
+          "sets": [
+            {
+              "reps": null,
+              "weightKg": 10.0
+            },
+            {
+              "reps": null,
+              "weightKg": 10.0
+            },
+            {
+              "reps": null,
+              "weightKg": 10.0
+            }
+          ]
+        }
+      ],
+      "createdAt": "2026-01-28T12:00:40Z",
+      "updatedAt": "2026-01-28T12:00:40Z"
+    },
+    {
+      "id": "14f1aad085b3ab9f",
+      "dateISO": "2025-11-20",
+      "templateId": "214675ce3c48840b",
+      "templateName": "Day1_Push",
+      "entries": [
+        {
+          "exerciseId": "520b40d4b5bbd155",
+          "exerciseName": "Barbell bench press",
+          "targetReps": "6-8",
+          "sets": [
+            {
+              "reps": 50,
+              "weightKg": 8.0
+            },
+            {
+              "reps": 60,
+              "weightKg": 6.0
+            },
+            {
+              "reps": 62,
+              "weightKg": 6.0
+            },
+            {
+              "reps": 65,
+              "weightKg": 6.0
+            }
+          ]
+        },
+        {
+          "exerciseId": "aad854d3baca59b6",
+          "exerciseName": "Dumbell overhead press",
+          "targetReps": "6-8",
+          "sets": [
+            {
+              "reps": 30,
+              "weightKg": 8.0
+            },
+            {
+              "reps": 32,
+              "weightKg": 8.0
+            },
+            {
+              "reps": 32,
+              "weightKg": 8.0
+            }
+          ]
+        },
+        {
+          "exerciseId": "84e2a4f6bf66cba9",
+          "exerciseName": "Incline dumbbell press",
+          "targetReps": "8-10",
+          "sets": [
+            {
+              "reps": 15,
+              "weightKg": 10.0
+            },
+            {
+              "reps": 18,
+              "weightKg": 8.0
+            },
+            {
+              "reps": 15,
+              "weightKg": 10.0
+            }
+          ]
+        },
+        {
+          "exerciseId": "2802129e820758bf",
+          "exerciseName": "Weighted dips",
+          "targetReps": "8-10",
+          "sets": [
+            {
+              "reps": 8,
+              "weightKg": 8.0
+            },
+            {
+              "reps": 8,
+              "weightKg": 8.0
+            },
+            {
+              "reps": 8,
+              "weightKg": 8.0
+            }
+          ]
+        },
+        {
+          "exerciseId": "75fe38737e570f2f",
+          "exerciseName": "Lateral raises",
+          "targetReps": "12-15",
+          "sets": [
+            {
+              "reps": 5,
+              "weightKg": 12.0
+            },
+            {
+              "reps": 5,
+              "weightKg": 12.0
+            },
+            {
+              "reps": 5,
+              "weightKg": 15.0
+            }
+          ]
+        }
+      ],
+      "createdAt": "2026-01-28T12:00:40Z",
+      "updatedAt": "2026-01-28T12:00:40Z"
+    },
+    {
+      "id": "4480803b5769a244",
+      "dateISO": "2025-11-20",
+      "templateId": "3855e186b14d3c29",
+      "templateName": "Day3_Legs_Core",
+      "entries": [
+        {
+          "exerciseId": "b5fa12b4fb9cefa4",
+          "exerciseName": "Back squat",
+          "targetReps": "6",
+          "sets": [
+            {
+              "reps": 60,
+              "weightKg": 8.0
+            },
+            {
+              "reps": 60,
+              "weightKg": 8.0
+            },
+            {
+              "reps": 65,
+              "weightKg": 8.0
+            },
+            {
+              "reps": 65,
+              "weightKg": 8.0
+            }
+          ]
+        },
+        {
+          "exerciseId": "9e8b0445b350ed74",
+          "exerciseName": "Romanian deadlift",
+          "targetReps": "8",
+          "sets": [
+            {
+              "reps": 60,
+              "weightKg": 8.0
+            },
+            {
+              "reps": 70,
+              "weightKg": 8.0
+            },
+            {
+              "reps": null,
+              "weightKg": 8.0
+            }
+          ]
+        },
+        {
+          "exerciseId": "2536c547584e86ef",
+          "exerciseName": "Bulgarian split squat",
+          "targetReps": "10",
+          "sets": [
+            {
+              "reps": 8,
+              "weightKg": 0.0
+            },
+            {
+              "reps": 8,
+              "weightKg": 0.0
+            },
+            {
+              "reps": 10,
+              "weightKg": 0.0
+            }
+          ]
+        },
+        {
+          "exerciseId": "9c8adfaf0c3ffa39",
+          "exerciseName": "Hanging leg raises",
+          "targetReps": "12",
+          "sets": [
+            {
+              "reps": 8,
+              "weightKg": 13.0
+            },
+            {
+              "reps": 8,
+              "weightKg": 10.0
+            },
+            {
+              "reps": 8,
+              "weightKg": 10.0
+            }
+          ]
+        },
+        {
+          "exerciseId": "1be1617b11da30fd",
+          "exerciseName": "Ab wheel rollouts",
+          "targetReps": "10",
+          "sets": [
+            {
+              "reps": null,
+              "weightKg": null
+            },
+            {
+              "reps": null,
+              "weightKg": null
+            },
+            {
+              "reps": null,
+              "weightKg": null
+            }
+          ]
+        }
+      ],
+      "createdAt": "2026-01-28T12:00:40Z",
+      "updatedAt": "2026-01-28T12:00:40Z"
+    }
+  ]
+}
