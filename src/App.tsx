@@ -802,7 +802,7 @@ function App() {
       <div className="container">
         <div className="appTop">
           <div className="appTopMark" aria-hidden="true">
-            <GymBroLogo size={36} />
+            <GymBroLogo size={40} />
           </div>
           <div className="appTopText">
             <div className="appName">GymBro</div>
