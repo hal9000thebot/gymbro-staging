@@ -17,8 +17,8 @@ export default defineConfig({
         theme_color: '#0b0f14',
         background_color: '#0b0f14',
         display: 'standalone',
-        start_url: '/lab/',
-        scope: '/lab/',
+        start_url: '/gymbro-staging/',
+        scope: '/gymbro-staging/',
         icons: [
           {
             src: '/pwa-192.png',
